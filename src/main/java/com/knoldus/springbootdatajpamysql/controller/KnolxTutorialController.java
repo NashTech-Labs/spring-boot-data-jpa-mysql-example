@@ -22,7 +22,6 @@ import org.springframework.web.bind.annotation.RequestParam;
  * all activity within knolx Tutorial
  */
 public class KnolxTutorialController {
-
 	@Autowired
 	TutorialRepository tutorialRepository;
 

@@ -8,6 +8,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Table;
 import org.springframework.data.annotation.Id;
 
+
 /**
  * KnolxTutorial database where
  * all entity applied like: id,title,description.
